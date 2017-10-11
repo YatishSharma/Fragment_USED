@@ -32,6 +32,12 @@
             android:name="com.example.yatishsharma.fragment_layouts.Frag_4"
             android:id="@+id/Frag_4"></fragment>
 
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/next_activity"
+            android:text="Click for next activity"/>
+
 
 
     </LinearLayout>
